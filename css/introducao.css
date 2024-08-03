@@ -23,7 +23,7 @@
   width: 130px;
   height: 100px;
   background: url("../img/blackcat.svg") no-repeat center;
-  background-size: 70%; /* Ajusta a imagem para 60px de largura e 40px de altura */
+  background-size: 70%; /* Ajusta a imagem */
   position: absolute;
   top: 310px;
   left: 1330px; 
